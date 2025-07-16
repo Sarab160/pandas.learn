@@ -22,3 +22,4 @@ print(discount)
 discount_2=df[(df["Sales"]<71)&(df["Discount"]<0.42)]
 print(discount_2)
 print(discount_2.shape)
+

@@ -1,0 +1,42 @@
+pd.read_csv()
+pd.read_excel()
+pd.read_json()
+
+pd.DataFrame()
+df.to_csv()
+df.to_excel()
+df.to_json()
+
+.head()
+.tail()
+.info()
+.describe()
+.shape
+.columns
+
+Select columns
+filtering rows
+
+add columns
+.insert()
+.loc()
+.drop()
+
+.isnull()
+.isnull().sum()
+dropna()
+.fillna()
+interplolate()
+.sort()
+
+.group()
+
+.merge()
+
+.concat()
+.rename()
+.duplicate()
+.drop_duplicate()
+
+
+
